@@ -1,0 +1,8 @@
+- Fazer uma lista simples em texto plano
+- HTML estatico
+- HTML dinamico
+- CRUD HTML/JS
+- Backend em memoria
+- Persistencia no Banco de Dados
+- BONUS: Vue.JS
+- BONUS: ORM
