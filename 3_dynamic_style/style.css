@@ -1,0 +1,4 @@
+/* selecionando todos os elementos <li> que possuam a classe "done" */
+li.done {
+    /* CSS para deixar item "riscado" */
+}
