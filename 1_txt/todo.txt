@@ -2,6 +2,7 @@
 - HTML estatico
 - HTML dinamico
 - CRUD HTML/JS
+- Separar view e model
 - Backend em memoria
 - Persistencia no Banco de Dados
 - BONUS: Vue.JS
