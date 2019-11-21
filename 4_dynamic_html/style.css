@@ -1,0 +1,19 @@
+/* selecionando todos os elementos <li> que possuam a classe "done" */
+li.done {
+    /* CSS para deixar item "riscado" */
+}
+.todo-form-text {
+    width: 400px;
+    font-size: 14px;
+}
+
+.todo-form-button {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.todo-form-button, .todo-form-text {
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 0;
+}
